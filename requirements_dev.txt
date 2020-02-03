@@ -1,1 +1,5 @@
+black
+isort
+nb_black
 pipreqs
+
